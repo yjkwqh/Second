@@ -158,7 +158,7 @@
 
 2.利用ConstraintLayout实现如下界面：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190316233058543.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70)
-核心代码：
+核心代码(布局文件)：
 ```Java
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout
@@ -239,9 +239,9 @@
 ```
 运行截图：![在这里插入图片描述](https://img-blog.csdnimg.cn/20190316234131487.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70)
 
-3.利用表格布局实现如下：
+3.利用表格布局实现如下：<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019031623423555.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZhZ2Fib25kXw==,size_16,color_FFFFFF,t_70)
-核心代码：
+核心代码(布局文件)：
 ```Java
 <?xml version="1.0" encoding="utf-8"?>
 <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
